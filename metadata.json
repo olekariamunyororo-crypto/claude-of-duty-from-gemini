@@ -1,0 +1,6 @@
+{
+  "name": "Claude of Duty: Vibe Slops II",
+  "description": "Fast-paced browser 3D FPS parody featuring procedural yacht arena, bots, tactical loadouts, and Web Audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
